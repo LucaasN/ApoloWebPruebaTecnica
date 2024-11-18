@@ -27,7 +27,7 @@ Para clonar y ejecutar el proyecto sigue estos pasos:
 
 
 ## Despliegue
-Se puede ver el proyecto en funcionamiento en Netlify:
+Se puede testear el proyecto deployado en Netlify:
 
 [Netlify](https://apolowebpruebatecnica.netlify.app/)
 
