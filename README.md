@@ -31,3 +31,8 @@ Se puede ver el proyecto en funcionamiento en Netlify:
 
 [Netlify](https://apolowebpruebatecnica.netlify.app/)
 
+
+## A tener en cuenta
+
+El login simula una autenticacion para las acciones de alta, baja y modificacion de maestros pokemon. Para poder acceder a esas acciones se debe estar logueado con user: admin@gmail.com y password: test1234 de lo contrario las acciones no estaran disponibles. El button de "Login" redirecciona al logueo con los inputs de user y password ya precargados, solo clickear en "Iniciar Sesion" para completar el login. En ejecucion el login y los maestros pokemon se almacenan en el LocalStorage (si tienes problemas: limpiar el LocalStorage y volver a ejecutar el proyecto). Para ver la lista de pokemons llamando a PokeApi y filtrarlos en el search no es necesario estar logueado. 
+
