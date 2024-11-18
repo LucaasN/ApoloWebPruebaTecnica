@@ -10,7 +10,7 @@ export const Navbar = () => {
       <div className="container-fluid">
         <Link className="navbar-brand" to="/">
           <img
-            src={"src/assets/pokeapi.png"}
+            src={"/assets/pokeapi.png"}
             alt="logo-pokeapi"
             width={100}
             height={50}
